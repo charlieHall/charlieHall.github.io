@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="cross" width="202px" height="232px" viewBox="0 0 202 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>cross</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-2665.000000, -254.000000)" fill="#000000">
+            <g id="cross" transform="translate(2665.000000, 254.000000)">
+                <rect id="Rectangle-3" transform="translate(101.000000, 116.000000) rotate(50.000000) translate(-101.000000, -116.000000) " x="-37" y="101" width="276" height="30"></rect>
+                <rect id="Rectangle-3" transform="translate(101.000000, 116.355947) scale(-1, 1) rotate(50.000000) translate(-101.000000, -116.355947) " x="-37" y="101.355947" width="276" height="30"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

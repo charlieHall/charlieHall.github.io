@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+@media only screen {
+    
+        /* unvisited link */
+    a:link {
+        color: white;
+    }
+
+    /* visited link */
+    a:visited {
+        color: white;
+    }
+
+    /* mouse over link */
+    a:hover {
+        color: lightgrey;
+    }
+
+    /* selected link */
+    a:active {
+        color: white;
+    }   
+    
+    #Polygon:hover {
+        fill: #FFFFFF;
+        fill-opacity: 0.5;
+    }
+    
+    polygon:hover {
+        cursor: hand;
+        cursor: pointer;
+    }
+    
+    #cross:hover {
+        cursor: hand;
+        cursor: pointer;
+    }
+    
+    text:hover {
+        cursor: hand;
+        cursor: pointer;
+    }
+    
+    .hover:hover #Polygon {
+        fill: #FFFFFF;
+        fill-opacity: 0.5;
+    }
+    
+    body {
+        background: red; /* For browsers that do not support gradients */
+        background: -webkit-linear-gradient(left top, #E287FF , #47F0F9); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(bottom right, #E287FF, #47F0F9); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(bottom right, #E287FF, #47F0F9); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(to bottom right, #E287FF, #47F0F9); /* Standard syntax */
+        font-family: 'Quicksand', sans-serif;
+        color: white;
+        font-weight: 200;
+        padding: 0 0 0 0;
+        margin: 0 0 0 0;
+    }
+    
+    #main {
+        width: 100%;
+        text-align: center;
+    }
+    
+    #includedContent {
+        text-align: center;
+    }
+    
+    h1 {
+        padding-left: 30px;
+    }
+    
+    h2 {
+        padding-left: 30px;
+    }
+    
+    h3 {
+        font-size: 20px;
+    }
+    
+    .appear p {
+        padding-right: 30px;
+        padding-left: 30px;
+        font-size: 30px;
+    }
+    #main {
+        overflow: auto;
+    }
+    
+    .appear {
+        visibility: hidden;
+        position: fixed;
+        left: 10%;
+        top: 10%;
+        width: 80%;
+        height: 80%;
+        background-color: rgba(0,0,0,0.9);
+        
+        z-index: 1;
+        overflow-y: scroll;
+        box-shadow: 10px 10px 5px rgba(0,0,0,0.3);
+        border-radius: 25px;
+    }
+    
+    .appear #cross {
+        position: relative;
+        width: 30px;
+        height: 34.46px;
+        margin-left: 95%;
+        margin-top: 10px;
+    }
+    
+    .appear .paragraph img, .appear .paragraph p, .appear .paragraph video, .appear .paragraph .image {
+        display: inline-block;
+        
+        
+    }
+    
+    .appear .top .title, .appear .top img {
+        display: inline-block;
+    }
+    
+    .appear .top img {
+        margin-right: 30px;
+        padding-left: 20%;
+    }
+    
+    #Marcin_picture {
+        padding-left: 0%;
+    }
+    
+    
+    .appear .paragraph .image img, .appear .paragraph .image h3  {
+        width: 100%;
+    }
+    
+    .appear .paragraph .image  {
+        text-align: center;
+        width: 40%;
+        vertical-align: top;
+        padding-top: 50px;
+    }
+    
+    .appear .paragraph .image h3  {
+        text-align: center;
+    }
+    
+    .appear .paragraph_vertical video {
+        width: 40%;
+        margin: 10px 10px 150px 10px;
+        margin-left: 30%;
+    }
+    
+    .appear .paragraph img {
+        width: 40%;
+        margin: 10px 10px 10px 10px;
+    }
+    
+    .appear .paragraph_vertical p, .appear .paragraph_vertical h3  {
+        margin-left: 50px;
+        margin-right: 50px;
+        text-align: center; 
+    }
+    
+    .appear .paragraph_vertical img {
+        width: 50%;
+        margin-left: 25%;
+    }
+    
+    .appear img {
+        margin: 0px 0px 0px 30px;
+    }
+    
+    .appear .paragraph p {
+        margin: 10px 10px 10px 10px;
+        width: 45%;
+        text-align: justify;
+        text-justify: inter-word;
+    }
+    
+    #abe {
+        width: 25%;
+        margin-left: 37.5%;
+    }
+
+    .center {
+        text-align: center;
+    }
+    
+    #appearMarcin #video {
+        width: 100%;
+        text-align: center;
+    }
+    
+    
+    
+    
+}
+
+
+
+
+

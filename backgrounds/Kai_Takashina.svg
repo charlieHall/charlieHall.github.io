@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="377px" height="339px" viewBox="0 0 377 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Kai_Takashina</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="20" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <radialGradient cx="65.0075018%" cy="23.037425%" fx="65.0075018%" fy="23.037425%" r="100%" id="radialGradient-2">
+            <stop stop-color="#B4B4B4" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="64.5436645%" cy="30.0779701%" fx="64.5436645%" fy="30.0779701%" r="100%" id="radialGradient-3">
+            <stop stop-color="#959595" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="64.1664445%" cy="32.9373985%" fx="64.1664445%" fy="32.9373985%" r="100%" id="radialGradient-4">
+            <stop stop-color="#949494" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="65.0403023%" cy="29.7453615%" fx="65.0403023%" fy="29.7453615%" r="100%" id="radialGradient-5">
+            <stop stop-color="#AAAAAA" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="66.001147%" cy="29.5539267%" fx="66.001147%" fy="29.5539267%" r="100%" id="radialGradient-6">
+            <stop stop-color="#A8A8A8" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="63.1342292%" cy="22.2489578%" fx="63.1342292%" fy="22.2489578%" r="100%" id="radialGradient-7">
+            <stop stop-color="#9B9B9B" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-2067.000000, -5412.000000)">
+            <g id="CDT_Background" transform="translate(1806.000000, 461.000000)">
+                <g id="Academics" transform="translate(0.000000, 4351.000000)">
+                    <g id="Kai_Takashina" transform="translate(239.000000, 550.000000)">
+                        <g id="Group-4" filter="url(#filter-1)">
+                            <polygon id="Polygon" stroke="#FF7384" stroke-width="9" fill-opacity="0" fill="#FFFFFF" transform="translate(199.515262, 206.350209) rotate(30.000000) translate(-199.515262, -206.350209) " points="199.515262 47.5017442 337.05067 126.925977 337.05067 285.774442 199.515262 365.198675 61.979854 285.774442 61.979854 126.925977"></polygon>
+                            <ellipse id="Oval" fill="url(#radialGradient-2)" cx="278.3125" cy="343.265847" rx="19.4791667" ry="19.4836136"></ellipse>
+                            <ellipse id="Oval" fill="url(#radialGradient-3)" cx="116.8125" cy="343.265847" rx="19.4791667" ry="19.4836136"></ellipse>
+                            <ellipse id="Oval" fill="url(#radialGradient-4)" cx="41.7291667" cy="206.526304" rx="19.4791667" ry="19.4836136"></ellipse>
+                            <ellipse id="Oval" fill="url(#radialGradient-5)" cx="279.729167" cy="69.7867615" rx="19.4791667" ry="19.4836136"></ellipse>
+                            <ellipse id="Oval" fill="url(#radialGradient-6)" cx="117.520833" cy="69.7867615" rx="19.4791667" ry="19.4836136"></ellipse>
+                            <path d="M353.052919,226.009918 C363.260106,226.009918 371.97065,217.286807 372.508462,206.526304 C373.046275,195.765802 364.335732,187.042691 353.052919,187.042691 C341.770106,187.042691 333.059562,195.765802 333.597375,206.526304 C334.135188,217.286807 342.845732,226.009918 353.052919,226.009918 Z" id="Oval" fill="url(#radialGradient-7)"></path>
+                        </g>
+                        <text id="Kai-Takashina" font-family="Avenir-Roman, Avenir" font-size="48" font-weight="normal" fill="#000000">
+                            <tspan x="173.664" y="192">Kai </tspan>
+                            <tspan x="101.184" y="258">Takashina</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
